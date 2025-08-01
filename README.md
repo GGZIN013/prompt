@@ -173,7 +173,7 @@
       </a>
     </div>
     <div class="button-wrapper">
-      <a href="#" class="button-link">Link 2</a>
+      <a href="#" class="button-link">Link 2</a>     
     </div>
     <div class="button-wrapper">
       <a href="#" class="button-link">Link 3</a>
