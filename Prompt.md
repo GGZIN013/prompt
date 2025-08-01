@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Seus eBooks</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
     html, body {
       margin: 0;
       padding: 0;
@@ -173,7 +182,7 @@
       </a>
     </div>
     <div class="button-wrapper">
-      <a href="#" class="button-link">Link 2</a>     
+      <a href="#" class="button-link">Link 2</a>
     </div>
     <div class="button-wrapper">
       <a href="#" class="button-link">Link 3</a>
